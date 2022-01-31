@@ -1,2 +1,4 @@
+![](https://codebuild.us-east-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiUFlLSW5aZjU4aXVINmxOU0ZIaDh0OHRRclhnWTR5YmlXci8zUDRvWUxsWEljWnRlTS9wd0w2eHJMWFhDTHZLc2dqZDhoYzBDaEVGMVRLcnRnK2E5SjNFPSIsIml2UGFyYW1ldGVyU3BlYyI6IlhLYnVJOGJHVU1SelB3Ri8iLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=main)
+
 # hugo-static-website
 This is a simple hugo website that is continuously delivered and uses AWS cloud9
